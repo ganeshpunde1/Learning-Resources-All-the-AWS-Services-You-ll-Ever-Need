@@ -1,4 +1,4 @@
-# AWS Learning Roadmap – Practical 
+# AWS Learning Roadmap – >> 
 
 ## Introduction to the AWS Learning Approach
 
